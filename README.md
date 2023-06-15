@@ -1,0 +1,2 @@
+# Blood-Bank-Management-System
+Blood Bank Management System’ is a windows form application designed for a blood Bank to gather blood from various sources and distribute it to the needy people who have high requirements for it. The software is designed to handle the daily transactions of blood bank and search the details when required. The employees will be able to register the donor details, issue a blood bag, update the test result and help in the billing of the blood bag. The admin can view the reports, manage the employees and get an overall view of the blood bank.
